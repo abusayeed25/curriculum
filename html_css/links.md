@@ -22,7 +22,8 @@ Links are the glue holding the web together, so make sure you understand how to 
 
 * Glance over [About.com's article on linking](http://webdesign.about.com/od/beginningtutorials/a/aa040502a.htm) if you need any additional support
 
-(http://www.tutorialspoint.com/html/html_text_links.htm)
+(http://www.tutorialspoint.com/html/html_text_links.htm) 
+<b>
 (http://www.w3schools.com/html/html_links.asp)
 (https://www.w3.org/TR/html4/struct/links.html)
 (http://www.wikihow.com/Create-a-Link)
