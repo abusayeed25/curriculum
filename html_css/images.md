@@ -1,8 +1,8 @@
 # Working with Images, Videos and Other Media
 
-Images and other media are an essential part of providing a good user experience and they are ubiquitous on websites today.  They are also your biggest, clunkiest set of assets and can ruin your page load times if you're not careful.  When your site is slow, the easiest way to get it running faster is to optimize your image sizes and filetypes.  
+Pictures and other media are a fundamental piece of giving a decent client experience and they are omnipresent on sites today. They are likewise your greatest, clunkiest arrangement of advantages and can demolish your page load times in case you're not watchful. At the point when your site is moderate, the most effortless approach to make them run quicker is to advance your picture sizes and filetypes. 
 
-There is also a big difference between each of the image filetypes, so pay attention to the use cases for each.  Remember, the trade-offs are usually image size vs quality (though sometimes you want animation or clear backgrounds too), so figure out the differences between `gif` and `jpg` and `bmp` and `png` and `svg`.
+There is likewise a major contrast between each of the picture filetypes, so pay consideration on the utilization cases for each. Keep in mind, the exchange offs are generally picture size versus quality (however now and then you need movement or clear foundations as well), so make sense of the contrasts amongst gif and jpg and bmp and png and svg.
 
 ## Points to Ponder 
 
@@ -33,4 +33,5 @@ There is also a big difference between each of the image filetypes, so pay atten
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*
 
 * [Another look at differences between image types](http://www.practicalecommerce.com/articles/1821-Image-Formats-What-s-the-Difference-Between-JPG-GIF-PNG-)
+* http://www.w3schools.com/html/html_images.asp*
 
