@@ -1,6 +1,6 @@
 # Links
 
-Links are the glue holding the web together, so make sure you understand how to properly link to external websites AND internal files.
+Links are the glue holding the web together, so make sure you understand how to properly link to external websites AND internal files. Links are found in nearly all web pages. Links allow users to click their way from page to page.
 
 ## Points to Ponder
 
@@ -21,3 +21,6 @@ Links are the glue holding the web together, so make sure you understand how to 
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*
 
 * Glance over [About.com's article on linking](http://webdesign.about.com/od/beginningtutorials/a/aa040502a.htm) if you need any additional support
+
+(http://www.w3schools.com/html/html_links.asp)
+(http://www.tutorialspoint.com/html/html_text_links.htm)
