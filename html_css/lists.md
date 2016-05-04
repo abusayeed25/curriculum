@@ -2,6 +2,8 @@
 
 Ordered and unordered lists are heavily used in most websites.  It's not just for bullet-points and numbers... they are also used in creating horizontal navbars and long collections of objects (like a list of pictures of items for sale).  They often take the place of tables as the method of choice for displaying structured content.
 
+Lists are good from a structural point of view as they help create a well-structured, more accessible, easy-to-maintain document. They are also useful for a purely practical reason — they give you extra elements to attach CSS styles to, for a whole variety of styling (we'll get on to CSS later in the course - check out the Styling lists and links first, and then visit the [Web Standards Curriculum] table of contents for the full list of CSS articles available.
+
 ## Points to Ponder
 
 * What is the basic list syntax?
@@ -18,3 +20,4 @@ Ordered and unordered lists are heavily used in most websites.  It's not just fo
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*
 
 * *Add Some!*
+* *http://www.w3schools.com/html/html_lists.asp*
