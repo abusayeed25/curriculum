@@ -19,5 +19,5 @@ Lists are good from a structural point of view as they help create a well-struct
 
 *This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something*
 
-* *Add Some!*
+* *Add Some more!*
 * *http://www.w3schools.com/html/html_lists.asp*
